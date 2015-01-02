@@ -1,3 +1,4 @@
+/*Question: http://www.acmgnyr.org/year2008/c.pdf */
 package ACM2008;
 
 import java.util.Scanner;
